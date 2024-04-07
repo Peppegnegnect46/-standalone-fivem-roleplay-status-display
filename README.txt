@@ -35,8 +35,8 @@ The `/stato` script enhances the role-playing experience on FiveM servers by all
 - FiveM server environment.
 
 ## Credits
-
-Developed by peppegnegnect46.
+Created: Elio
+Modify by peppegnegnect46.
 
 ## Preview 
 
